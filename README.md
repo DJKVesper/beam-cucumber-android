@@ -1,2 +1,9 @@
 # beam-cucumber-android
-cucumber tests for the beam android app
+
+## About
+Cucumber Automated Acceptance tests for the beam android app
+
+### Pre-Requisites
+TODO
+### Installation
+TODO
